@@ -60,10 +60,6 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 6. PAGEKITE (https://pagekite.net/)
 7. LOCALHOST.RUN (https://localhost.run)
 
-# SCREENSHOT (Android-Userland)
-
-![Shot](https://github.com/DarkSecDevelopers/HiddenEye/blob/master/Screenshot.png)
-
 ## CREDIT:-
 
 - Anonud4y ( I don't remember if i have done Anything )
@@ -91,15 +87,6 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 - Python 3.\*
 - PHP
 - pyngrok
-
-# FOUND A BUG ? / HAVE ANY ISSUE ? :- (Read This)
-
-- Check closed & solved issues/bugs before opening new.
-- Make sure your issue is related to the codes and resources of this repository.
-- Its your responsibility to response on your opened issues.
-- If we don't found user response on his/her issue in the particular time
-  interval , Then we have to close that issue.
-- Do Not Spam or Advertise & Respect Everyone.
 
 ### WHAT'S NEW FEATURES
 

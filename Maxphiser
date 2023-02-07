@@ -1,0 +1,18 @@
+        MaxPhisher 
+
+
+git clone https://github.com/KasRoudra/MaxPhisher
+
+
+$ cd MaxPhisher
+
+$ pip3 install -r files/requirements.txt
+
+$ python3 maxphisher.py
+
+
+
+      Direct run command only use Termux 
+
+
+      wget https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/MaxPhisher.py && python3 maxphisher.py
